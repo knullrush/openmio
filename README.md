@@ -1,1 +1,3 @@
-# openmio
+OpenMio
+
+Introducing OpenMio
